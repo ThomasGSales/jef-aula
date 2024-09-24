@@ -1,0 +1,11 @@
+{
+    "firebaseConfig": {
+        "apiKey": "AIzaSyCX-bbHlNmyt2WyuTbWOxIey58UxH2qlik",
+        "authDomain": "todo-list-bf392.firebaseapp.com",
+        "projectId": "todo-list-bf392",
+        "storageBucket": "todo-list-bf392.appspot.com",
+        "messagingSenderId": "129504983547",
+        "appId": "1:129504983547:web:9ce1d7ce1bda0f7e53335e"
+      }
+      
+}
